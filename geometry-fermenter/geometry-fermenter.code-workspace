@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "extensions.ignoreRecommendations": true,
+        "files.associations": {
+            "*.ino": "cpp"
+        },
+        "particle.targetPlatform": "argon",
+        "particle.firmwareVersion": "1.1.0",
+    }
+}

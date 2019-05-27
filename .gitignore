@@ -33,3 +33,9 @@
 
 .vscode
 .vscode/*
+
+geometry-kegerator/target
+geometry-kegerator/target/*
+
+geometry-fermenter/target
+geometry-fermenter/target/*
